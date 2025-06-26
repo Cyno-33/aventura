@@ -2,6 +2,14 @@ body{
     background-color: rgb(51, 107, 63);
     color: white;
     font-family: "bai jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: 700px;
+    margin: 0;
+}
 
-
+button{
+    background-color: chartreuse;
+    color: white;
+    font-family: "bai jamjuree", sans-serif;
 }
