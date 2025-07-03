@@ -4,12 +4,13 @@ body{
     font-family: "bai jamjuree", sans-serif;
     display: flex;
     justify-content: center;
-    align-items: 700px;
-    margin: 0;
+    align-items: center;
+    height: 700px;
+    margin: 0px;
 }
 
 button{
-    background-color: chartreuse;
+    background-color: #64a712 ;
     color: white;
     font-family: "bai jamjuree", sans-serif;
 }
